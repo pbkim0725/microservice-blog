@@ -1,0 +1,8 @@
+[submodule "microservice-blog-server"]
+	path = microservice-blog-server
+	url = git@github.com:pbkim0725/microservice-blog-server.git
+	branch = main
+[submodule "microservice-blog-client"]
+	path = microservice-blog-client
+	url = git@github.com:pbkim0725/microservice-blog-client.git
+	branch = main
